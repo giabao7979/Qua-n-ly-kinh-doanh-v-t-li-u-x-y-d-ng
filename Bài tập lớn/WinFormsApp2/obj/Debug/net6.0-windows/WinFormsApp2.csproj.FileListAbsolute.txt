@@ -1,0 +1,52 @@
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\Program.Form2.resources
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\Program.Form3.resources
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CopyComplete
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\bai tap lon aaa\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\Program.Form2.resources
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\Program.Form3.resources
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CopyComplete
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+E:\nam 2\học kì 2( học kì 1 ham chơi quên k làm)\Bài tập lớn C#\Bài tập lớn\Bài tập lớn\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
